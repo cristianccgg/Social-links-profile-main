@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](![alt text](../social-links-profile-main/design/solution-screenshot.png)
+![Screenshot](![alt text](design/solution-screenshot.png))
 
 ### Links
 
